@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import { Grid } from '@material-ui/core';
 import { SearchBar, VideoDetail } from './components';
+import { SearchBar, VideoDetail } from './components';
 
 import youtube from './api/youtube';
 
